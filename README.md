@@ -1,4 +1,4 @@
-### Hi, I'm Divya 👋 👩🏾‍💻
+# Hi, I'm Divya 👋 👩🏾‍💻
 
 <!--
 **DivyaSoni31/DivyaSoni31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
